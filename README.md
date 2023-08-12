@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💡 I love to build hardware and software.
+- 🔭 I'm always looking how to improve things.
+- 🌱 I am currently learning how try to find the simpliest solution in life.
+- 💬 Ask me anything about art, science and techology.
+- 🧑‍🏫 I'm a technology education mentor.
+- 👨🏻‍💻 My first programming languajes was C and ASSEMBLER  
+- 🎮 I am a terrible gamer, but I am unterrible with N64 gaming.
+-  ⚡ Fun Facts: I like to make fashion tech and art installations. 
