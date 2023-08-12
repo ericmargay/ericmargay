@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![ericmargay's Stats](https://github-readme-stats.vercel.app/api?username=ericmargay&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+
+![ericmargay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ericmargay&theme=dracula&hide_border=false)
+
+
+![ericmargay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmargay&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmargay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
