@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 I love to build hardware and software.<br>🔭 I'm always looking how to improve things.<br>🌱 I am currently learning how try to find the simpliest solution in life.<br>💬 Ask me anything about art, science and techology.<br>🧑‍🏫 I'm a technology education mentor.<br>👨🏻‍💻 My first programming languajes was C and ASSEMBLER<br>🎮 I am a terrible gamer, but I am unterrible with N64 gaming.<br>⚡ Fun Facts: I like to make fashion tech and art installations.
+💡 I love to build hardware and software.<br>🔭 I'm always looking how to improve things.<br>🌱 I am currently learning how try to find the simpliest solution in life.<br>💬 Ask me anything about art, science and technology.<br>🧑‍🏫 I'm a technology education mentor.<br>👨🏻‍💻 My first programming languajes was C and ASSEMBLER<br>🎮 I am a terrible gamer, but I am unterrible with N64 gaming.<br>⚡ Fun Facts: I like to make fashion tech and art installations.
 
 
 # 💻 Tech Stack:
