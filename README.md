@@ -50,9 +50,9 @@
 
 ## 🔗 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ericmargay) 
-[![CV](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]([https://margay.dev](https://ericmargay.github.io/DevResumeCV/))
+[![CV](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ericmargay](https://ericmargay.github.io/DevResumeCV)) 
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ericmargay&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Focused on building production-grade ML systems and geospatial data products -->
