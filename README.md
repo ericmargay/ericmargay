@@ -50,7 +50,9 @@
 
 ## 🔗 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ericmargay) 
-[![CV](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ericmargay](https://ericmargay.github.io/DevResumeCV)) 
+[![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://ericmargay.github.io/DevResumeCV)
+
+
 
 
 ---
