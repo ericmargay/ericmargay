@@ -44,9 +44,16 @@
 - **Clean Code**: Modular Python, testing, documentation, code reviews.
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ericmargay&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ericmargay&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmargay&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ericmargay&theme=dracula&hide_border=false)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericmargay&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ericmargay&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ericmargay&theme=dracula)
+
+</div>
 
 ## 🔗 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ericmargay) 
