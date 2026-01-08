@@ -1,15 +1,21 @@
 # 💫 About Me:
-💡 I love to build hardware and software.<br>🔭 I'm always looking how to improve things.<br>🌱 I am currently learning how try to find the simpliest solution in life.<br>💬 Ask me anything about art, science and technology.<br>👨🏻‍💻 My first programming languajes was C and ASSEMBLER<br>🎮 I am a terrible gamer, but I am unterrible with N64 gaming and Counter Strike slave<br>⚡ Fun Facts: I like to make fashion tech and art installations.
-💡 Side interests: Hardware projects, technology education, and creative tech installations.
+💡 I love to build hardware and software.<br>
+🔭 I'm always looking how to improve things.<br>
+🌱 I am currently learning how try to find the simpliest solution in life.<br>
+💬 Ask me anything about art, science and technology.<br>
+👨🏻‍💻 My first programming languages was C and ASSEMBLER.<br>
+🎮 I am a terrible gamer, but I am unterrible with N64 gaming and Counter Strike slave.<br>
+⚡ Fun Facts: I like to make fashion tech and art installations.<br>
+💡 Side interests: Hardware projects, technology education, and creative tech installations.<br>
 🏗️ **Philosophy:** Own the deployment. Data science is only valuable when it runs reliably in production.<br>
 
 # 💫 Fun Facts:
 ⚡ I like to make fashion tech and art installations.<br>
-🐳 I was a great gymnast but broke my knee and some others bones.
+🐳 I was a great gymnast but broke my knee and some other bones.<br>
 
 # 👋 Currently Life Work:
 🚀 **Machine Learning Engineer** specializing in data pipelines and production ML systems.<br>
-🗺️ Building end-to-end data products from ingestion to visualization.
+🗺️ Building end-to-end data products from ingestion to visualization.<br>
 ⚙️ Full-stack data engineer: I don't just train models—I architect, deploy, and maintain the entire data lifecycle.<br>
 🐳 Experienced with orchestrating complex pipelines and building scalable ETL workflows.<br>
 🐍 Production-grade Python developer with strong focus on clean, maintainable, modular code.<br>
