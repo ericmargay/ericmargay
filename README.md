@@ -52,9 +52,9 @@
 ## 📊 GitHub Stats:
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ericmargay&theme=dracula&hide_border=false)](https://git.io/streak-stats)
+[comment]: <>[![GitHub Streak](https://streak-stats.demolab.com/?user=ericmargay&theme=dracula&hide_border=false)](https://git.io/streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericmargay&theme=dracula)
+[comment]: <>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericmargay&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ericmargay&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ericmargay&theme=dracula)
