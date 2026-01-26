@@ -4,14 +4,14 @@
 🌱 I am currently learning how try to find the simpliest solution in life.<br>
 💬 Ask me anything about art, science and technology.<br>
 👨🏻‍💻 My first programming languages was C and ASSEMBLER.<br>
-🎮 I am a terrible gamer, but I am unterrible with N64 gaming and Counter Strike slave.<br>
-⚡ Fun Facts: I like to make fashion tech and art installations.<br>
+🎮 I am a terrible gamer, but I am unterrible with N64 gaming and in Counter Strike slave named Melo.<br>
 💡 Side interests: Hardware projects, technology education, and creative tech installations.<br>
 🏗️ **Philosophy:** Own the deployment. Data science is only valuable when it runs reliably in production.<br>
 
 # 💫 Fun Facts:
 ⚡ I like to make fashion tech and art installations.<br>
 🐳 I was a great gymnast but broke my knee and some other bones.<br>
+⚡ I like to make fashion tech and art installations.<br>
 
 # 👋 Currently Life Work:
 🚀 **Machine Learning Engineer** specializing in data pipelines and production ML systems.<br>
