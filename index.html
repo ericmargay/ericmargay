@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Links — Eric</title>
+  <meta name="description" content="Todos mis enlaces en un solo lugar." />
+  <meta property="og:title" content="Links — Eric" />
+  <meta property="og:description" content="Todos mis enlaces en un solo lugar." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="favicon.svg" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="bg"></div>
+  <main class="container">
+    <header id="profile" class="profile">
+      <div class="avatar-wrap">
+        <img id="avatar" alt="Avatar" />
+        <div id="avatar-fallback" class="avatar-fallback" aria-hidden="true"></div>
+      </div>
+      <div class="who">
+        <h1 id="name">Tu Nombre</h1>
+        <p id="bio">Tu descripción corta aquí.</p>
+        <div class="badges" id="badges"></div>
+      </div>
+      <button id="themeToggle" class="btn ghost" aria-label="Cambiar tema">🌓</button>
+    </header>
+
+    <section id="links" class="links"></section>
+
+    <footer class="foot">
+      <span class="tiny">© <span id="year"></span> • Hecho por ti</span>
+    </footer>
+  </main>
+
+  <svg width="0" height="0" class="hidden">
+    <defs>
+      <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="var(--accent)" />
+        <stop offset="1" stop-color="color-mix(in oklab, var(--accent), #000 25%)" />
+      </linearGradient>
+    </defs>
+  </svg>
+
+  <script src="js/app.js"></script>
+  <script>
+    App.initPublic();
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

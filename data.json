@@ -1,0 +1,45 @@
+{
+  "profile": {
+    "name": "Eric Margay",
+    "bio": "Ingeniero creativo — LEDs, audiovisual y software.",
+    "avatar": "",
+    "accent": "#7c6cff",
+    "badges": [
+      "⚡ Maker",
+      "🎧 Audio-reactivo",
+      "💡 LED Art"
+    ]
+  },
+  "links": [
+    {
+      "icon": "github",
+      "title": "GitHub",
+      "url": "https://github.com/eric",
+      "visible": true
+    },
+    {
+      "icon": "x",
+      "title": "X (Twitter)",
+      "url": "https://x.com/eric",
+      "visible": true
+    },
+    {
+      "icon": "instagram",
+      "title": "Instagram",
+      "url": "https://instagram.com/eric",
+      "visible": true
+    },
+    {
+      "icon": "discord",
+      "title": "Discord",
+      "url": "https://discord.gg/invite",
+      "visible": true
+    },
+    {
+      "icon": "amazon",
+      "title": "Amazon Store",
+      "url": "https://amazon.com",
+      "visible": true
+    }
+  ]
+}
