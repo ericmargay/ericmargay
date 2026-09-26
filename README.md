@@ -20,6 +20,7 @@
 
 🚀 I work as a **Machine Learning Engineer**, building production data pipelines, engineering analytics and tools that turn complex outputs into useful information.<br>
 🗺️ I build end-to-end data products: ingestion, validation, modeling, APIs, deployment and visualization.<br>
+🔬 Since September 2026 I am also the **freelance hardware engineer** of Luma Prima, a medical machine-vision start-up: cameras, optics, cross-polarised illumination, mounting, the compute platform (Ubuntu, ONNX Runtime, Docker Compose on an air-gapped device) and the compliance path of an operating-room pilot — from a patent filing to a self-contained staging station, with a Three.js scenario tool that sizes every part from the bill of materials.<br>
 ⚙️ I also work with embedded systems, Raspberry Pi, ESP32, sensors, communication protocols and hardware/software integration.<br>
 🐍 I care about Python code that is clean, modular, documented and boring enough to trust in production.<br>
 📝 I document architectures, interfaces, assumptions, tests and limitations because the next person should not need archaeology to understand a project.<br>
@@ -93,6 +94,7 @@ A local-first encrypted vault prototype for sensitive records, beneficiaries and
 - **Data pipelines:** ETL/ELT, orchestration, reproducible processing and monitoring.
 - **Geospatial systems:** PostGIS, spatial operations, geographic aggregation and interactive maps.
 - **Connected prototypes:** Raspberry Pi, ESP32, sensors, local communication and cloud integration.
+- **Machine-vision hardware:** camera, lens and illumination selection, UVC/V4L2 capture without vendor SDKs, calibration, bench tests, bills of materials and the electrical-safety path for clinical or industrial environments.
 - **Technical documentation:** system architecture, interfaces, test evidence, limitations and hand-off material.
 - **Teaching & mentoring:** Python, web development, electronics, IoT and project-based STEM learning.
 
